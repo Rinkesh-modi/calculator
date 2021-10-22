@@ -98,10 +98,10 @@ button:active {
   text-align: right;
 }
 
-/* .dark-mode {
+.dark-mode {
   background-color: black;
   color: white;
-} */
+}
 
 @media screen and (max-width: 600px) {
   .content {
