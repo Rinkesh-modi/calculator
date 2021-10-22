@@ -100,7 +100,7 @@ button:active {
 
 .dark-mode {
   background-color: black;
-  color: white;
+  /* color: white; */
 }
 
 @media screen and (max-width: 600px) {
